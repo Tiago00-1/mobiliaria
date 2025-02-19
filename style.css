@@ -97,6 +97,11 @@ nav ul li a::after {
     border-radius: 10px;
 }
 
+#corretores img {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 10px;
+}
 
 /* Seções de serviços e contato */
 #servicos, #contato {
